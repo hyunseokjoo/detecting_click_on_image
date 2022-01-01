@@ -1,0 +1,1 @@
+# detecting_click_on_image
